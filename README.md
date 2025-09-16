@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Kaitlyn 👋
+🌱 Backend Engineer in training | 🚀 Aspiring DevOps | ❤️ Building useful side projects
 
-<!--
-**inch178329/inch178329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages & Tools**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff)
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- [ohhiyo-vue](https://github.com/inch178329/ohhiyo-vue) – Vue3 + Pinia + Axios 前端
+- [ohhiyo-springboot](https://github.com/inch178329/ohhiyo-springboot) – Spring Boot 後端
+- Node.js Todo API (coming soon 🔧)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning: Node.js, Express, Firebase  
+🎯 Next Goal: Deploy projects on AWS with Docker  
+
+![Kaitlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=inch178329&show_icons=true&theme=radical)
+
+📫 Reach me at: [Email](mailto:yourmail@gmail.com) | [LinkedIn](https://linkedin.com/in/xxx)
