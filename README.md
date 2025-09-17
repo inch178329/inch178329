@@ -1,60 +1,62 @@
-# Hi, I'm Kaitlyn 👋
+# 🌟 Kaitlyn Wu (`inch178329`)
 
-🌱 Aspiring Backend Engineer | 🚀 Future DevOps | ❤️ Building useful side projects  
+Hi, It's Kaitlyn here!
+
+I'm a backend trainee with a strong interest in exploring new knowledge and self-learning backend development with JavaScript and Python.
+Currently based in Dongguan, China, 
+I aim to work internationally and broaden my perspective through collaboration with professionals from diverse backgrounds and technologies.
+
+🌱 Aspiring Backend Trainee | 🚀 Future DevOps | 💻 Building useful side projects  
 🎯 Goal: Transition to Backend Engineer by 2026 | WeHelp Bootcamp (Oct 2025 – Apr 2026)
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 Growth Mindset
+> "Curious about exploring new knowledge and turning what I learn into real results."
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
-
-**Frameworks & Tools**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
+I'm convinced that learning programming is not a straight path achieved overnight,  
+but a journey of continuous progress through **repeated practice and hands-on projects**.  
+That’s why I keep building small projects and documenting my learning process,  
+step by step moving toward my goal of becoming a backend engineer.  
 
 ---
 
-## 🚀 Projects
-
-- [ohhiyo-vue](https://github.com/inch178329/ohhiyo-vue) – Vue3 + Pinia + Axios 前端專案
-- [ohhiyo-springboot](https://github.com/inch178329/ohhiyo-springboot) – Spring Boot 後端專案
-- **Node.js Todo API (in progress)** – Express + Firebase CRUD
-- **Blog API (planning)** – Node.js + PostgreSQL + JWT
+## 📌 Featured Projects
+- 🖼️ **六角學院 切版最終任務** —  [hexschool30campingFinalTask](https://github.com/inch178329/hexschool30campingFinalTask)
+- 🏠 **189租屋網 系列專案** —
+  - [rent_FrontOfTheFront](https://github.com/winston20000511/rent_FrontOfTheFront) – Vue3 + Pinia + Axios  
+  - [rent_BackendOfTheFrontend](https://github.com/winston20000511/rent_BackendOfTheFrontend) – Spring Boot Backend
 
 ---
 
 ## 📚 Learning Journey
-
 - 🔥 Preparing for [WeHelp Bootcamp](https://wehelp.tw/) (Starts Oct 2025)  
-- 📘 Currently Learning: JavaScript, Node.js, Express  
-- 🐳 Next: Docker & Cloud Deployment (AWS, Zeabur)  
-- 💡 Long-term Goal: Full-stack Backend + DevOps
+- 📘 Currently Learning : JavaScript, Python, MySQL
+- 🐳 Next : RESTful API, Docker & Cloud Deployment (AWS/Zeabur), Node.js
+- 🐘 Planning : PostgreSQL, Firebase
+- 📝 Planning : AWS Certified Cloud Practitioner  
+
+- 💡 Long-term Goal: Full-stack Backend + DevOps, Personal Branding(Blog, Threads)
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Experience
+- **資展國際 EEIT189 跨域 Java 班** — Java, Spring Boot (2024.08 ~ 2025.01)  
+- **六角學院 | 30天軟體工程師體驗營** — 前端切版基礎 (2025.05 ~ 2025.06)  
+- **Self-Learning** —   HTML5, CSS3, JavaScript, Python, Git/GitHub Workflow (present)
 
-![Kaitlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=inch178329&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inch178329&layout=compact&theme=radical)
+---
+
+## 🌍 Language Skills
+- **TOEIC**: 695 (Intermediate)
+- **Chinese**: Native  
 
 ---
 
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/)  
-- [Email](mailto:yourmail@gmail.com)  
-- [Instagram](https://www.instagram.com/)  
-- [Threads](https://www.threads.net/)  
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/kaitlynwuuu/)  
+- [Email](mailto:carol98569@gmail.com)  
 
 ---
-✨ *"Keep learning, keep building, keep growing."*
+
+✨ *“Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, ‘I will try again tomorrow.’ ”*  — *Mary Anne Radmacher*  
