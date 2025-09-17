@@ -2,8 +2,8 @@
 
 Hi, It's Kaitlyn here!
 
-I'm a backend trainee with a strong interest in exploring new knowledge and self-learning backend development with JavaScript and Python.
-Currently based in Dongguan, China, 
+I'm a backend trainee with a strong interest in exploring new knowledge and self-learning backend development with JavaScript and Python.  
+Currently based in Dongguan, China,   
 I aim to work internationally and broaden my perspective through collaboration with professionals from diverse backgrounds and technologies.
 
 🌱 Aspiring Backend Trainee | 🚀 Future DevOps | 💻 Building useful side projects  
