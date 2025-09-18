@@ -22,8 +22,8 @@ step by step moving toward my goal of becoming a backend engineer.
 ---
 
 ## 📌 Featured Projects
-- 🖼️ **六角學院 切版最終任務** —  [hexschool30campingFinalTask](https://github.com/inch178329/hexschool30campingFinalTask)
-- 🏠 **189租屋網 系列專案** —
+- 🖼️ **HexSchool | Web Page Layout Final Task** —  [hexschool30campingFinalTask](https://github.com/inch178329/hexschool30campingFinalTask)
+- 🏠 **189 Rental Platform | iSpan Workshop Side Project** —
   - [rent_FrontOfTheFront](https://github.com/winston20000511/rent_FrontOfTheFront) – Vue3 + Pinia + Axios  
   - [rent_BackendOfTheFrontend](https://github.com/winston20000511/rent_BackendOfTheFrontend) – Spring Boot Backend
 
@@ -41,8 +41,8 @@ step by step moving toward my goal of becoming a backend engineer.
 ---
 
 ## 🧩 Experience
-- **資展國際 EEIT189 跨域 Java 班** — Java, Spring Boot (2024.08 ~ 2025.01)  
-- **六角學院 | 30天軟體工程師體驗營** — 前端切版基礎 (2025.05 ~ 2025.06)  
+- **iSpan EEIT189 Cross-disciplinary Java Software Engineer Talent Development Program** — Java, Spring Boot (2024.08 ~ 2025.01)  
+- **HexSchool 2025 | 30-Day Coding Experience Camp** — HTML5, CSS3 (2025.05 ~ 2025.06)  
 - **Self-Learning** —   HTML5, CSS3, JavaScript, Python, Git/GitHub Workflow (present)
 
 ---
