@@ -26,7 +26,7 @@ step by step moving toward my goal of becoming a backend engineer.
   - [hexschool30campingFinalTask](https://inch178329.github.io/hexschool30campingFinalTask) –  HTML5, CSS3
 - 🏠 **189 Rental Platform | iSpan Workshop Side Project** —
   - [rent_FrontOfTheFront](https://github.com/winston20000511/rent_FrontOfTheFront) – Vue3 + Pinia + Axios  
-  - [rent_BackendOfTheFrontend](https://github.com/winston20000511/rent_BackendOfTheFrontend) – Spring Boot, MSSQL
+  - [rent_BackendOfTheFrontend](https://github.com/winston20000511/rent_BackendOfTheFrontend) – Spring Boot + MSSQL
 
 ---
 
