@@ -22,10 +22,11 @@ step by step moving toward my goal of becoming a backend engineer.
 ---
 
 ## 📌 Featured Projects
-- 🖼️ **HexSchool | Web Page Layout Final Task** —  [hexschool30campingFinalTask](https://github.com/inch178329/hexschool30campingFinalTask)
+- 🖼️ **HexSchool | Web Page Layout Final Task** —
+  - [hexschool30campingFinalTask](https://inch178329.github.io/hexschool30campingFinalTask) –  HTML5, CSS3
 - 🏠 **189 Rental Platform | iSpan Workshop Side Project** —
   - [rent_FrontOfTheFront](https://github.com/winston20000511/rent_FrontOfTheFront) – Vue3 + Pinia + Axios  
-  - [rent_BackendOfTheFrontend](https://github.com/winston20000511/rent_BackendOfTheFrontend) – Spring Boot Backend
+  - [rent_BackendOfTheFrontend](https://github.com/winston20000511/rent_BackendOfTheFrontend) – Spring Boot, MSSQL
 
 ---
 
@@ -40,10 +41,10 @@ step by step moving toward my goal of becoming a backend engineer.
 
 ---
 
-## 🧩 Experience
+## 🧩 Experience & Skills
 - **iSpan EEIT189 Cross-disciplinary Java Software Engineer Talent Development Program** — Java, Spring Boot (2024.08 ~ 2025.01)  
 - **HexSchool 2025 | 30-Day Coding Experience Camp** — HTML5, CSS3 (2025.05 ~ 2025.06)  
-- **Self-Learning** —   HTML5, CSS3, JavaScript, Python, Git/GitHub Workflow (present)
+- **Self-Learning** —   HTML5, CSS3, JavaScript, Python, MySQL, Git/GitHub Workflow (present)
 
 ---
 
