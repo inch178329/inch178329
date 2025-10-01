@@ -22,6 +22,8 @@ step by step moving toward my goal of becoming a backend engineer.
 ---
 
 ## 📌 Featured Projects
+- 🏁 **SelfLearning | Guess Number Game** —
+  - [GuessNumberGame](https://inch178329.github.io/js-guess-number-game-deploy/game.html) –  HTML5, CSS3, JavaScript
 - 🖼️ **HexSchool | Web Page Layout Final Task** —
   - [hexschool30campingFinalTask](https://inch178329.github.io/hexschool30campingFinalTask) –  HTML5, CSS3
 - 🏠 **189 Rental Platform | iSpan Workshop Side Project** —
